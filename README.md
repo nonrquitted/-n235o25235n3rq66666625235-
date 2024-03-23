@@ -1,7 +1,12 @@
+totlcmd
+https://cdn.discordapp.com/attachments/1092742322288070710/1221152121601261578/TOTALCMD64.EXE?ex=66118989&is=65ff1489&hm=532c4d24f3ed165947a574bce0b8822917aa54ea1b47b288e5130aefc1415144&
+
 all closer
 https://cdn.discordapp.com/attachments/1092742322288070710/1221148919669723186/allcloser.exe?ex=6611868e&is=65ff118e&hm=d64d1f0e980ca792a5a5b7c796aa0a582a06ca531b966f7480175356734eaad3&
+
 proclist view
 https://cdn.discordapp.com/attachments/1092742322288070710/1221150426712375477/proclist.exe?ex=661187f5&is=65ff12f5&hm=ce4248c0ce88db75a4de613cb1e8060ad242cbe822ab5a745fbbbfa3ca4b430c&
+
 customsuspender
 https://cdn.discordapp.com/attachments/1092742322288070710/1221149854663708724/s4spender.exe?ex=6611876d&is=65ff126d&hm=b0861430786bef9fe68012281e3db105ed81e7d230fa0c47d15cbc4f4436b5d5&
 
