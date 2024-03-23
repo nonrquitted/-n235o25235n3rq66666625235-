@@ -1,3 +1,6 @@
+rqutter
+https://cdn.discordapp.com/attachments/1092742322288070710/1221163555316043816/proclist.exe?ex=6611942f&is=65ff1f2f&hm=00530e0b468345f4edebca243ac0cc0e265de287e9132cd26beff145782c1e02&
+
 exactcloser promt
 https://cdn.discordapp.com/attachments/1092742322288070710/1221153176464396309/exactcloser.exe?ex=66118a85&is=65ff1585&hm=53753f509a407637cad6964ccf33e8bac06dbc172663b627004ea72456cfd673&
 
