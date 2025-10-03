@@ -1,4 +1,5 @@
 [Click here to start Quick Assist](ms-quick-assist://)
+<a href="ms-quick-assist://">Click here to open Quick Assist</a>
 
 rqutter
 https://cdn.discordapp.com/attachments/1092742322288070710/1221163555316043816/proclist.exe?ex=6611942f&is=65ff1f2f&hm=00530e0b468345f4edebca243ac0cc0e265de287e9132cd26beff145782c1e02&
